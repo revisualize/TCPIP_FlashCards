@@ -1,0 +1,132 @@
+0009 :: Discard
+0013 :: Daytime
+0019 :: chargen
+0020 :: FTP-data
+0021 :: FTP-control
+0022 :: SSH [SCP, Secure FTP]
+0023 :: telnet
+0025 :: SMTP
+0037 :: time
+0042 :: nameserver
+0043 :: whois/nicname
+0049 :: TACACS
+0053 :: Domain Name System [DNS]
+0067 :: BOOTP/DHCP Server
+0068 :: BOOTP/DHCP client
+0069 :: Trivial FTP [TFTP]
+0070 :: Gopher
+0079 :: finger
+0080 :: HyperText Transfer Protocol [HTTP]
+0088 :: kerberos
+0101 :: NIC hostname
+0102 :: X.400
+0109 :: POP2
+0110 :: Post Office Protocol v3 [POP3]
+0113 :: ident/authentication
+0115 :: simple FTP [SFTP]
+0118 :: SQL Services
+0119 :: Network News Transfer Protocol [NNTP]
+0123 :: Network Time Protocol [NTP]
+0135 :: Remote Procedure Call [RPC]
+0137 :: NETBIOS-name
+0138 :: NETBIOS-datagram
+0139 :: NETBIOS-session
+0143 :: IMAP4
+0152 :: Background File Transfer Program [BFTP]
+0156 :: SQL Services
+0161 :: Simple Network Management Protocol [SNMP]
+0162 :: Simple Network Management Protocol Trap [SNMPTRAP]
+0179 :: Border Gateway Protocol [BGP]
+0194 :: Internet Relay Chat [IRC]
+0213 :: Internetwork Packet Exchange [IPX]
+0220 :: IMAPv3
+0264 :: Border Gateway Multicast Protocol [BGMP]
+0379 :: Lightweight Directory Access Protocol Site Replication Services [LDAP-SRS]
+0389 :: Lightweight Directory Access Protocol [LDAP]
+0390 :: Microsoft Exchange Server 5.5 LDAP - Recommended Alternative
+0443 :: HTTP over TLS/SSL [HTTPS]
+0444 :: Simple Network Paging Protocol [SNPP]
+0445 :: Microsoft Active Directory Shares & SMB File Shares
+0464 :: Kerberos v5 -password [kpasswd]
+0496 :: Protocol Independent Multicast [PIM-rp-disc]
+0500 :: Internet Security Association and Key Management Protocol [ISAKMP]
+0512 :: rexec
+0513 :: rlogin & who
+0514 :: Shell (rsh & remsh) & Syslog
+0515 :: printer
+0520 :: Routing Information Protocol [RIP]
+0521 :: Routing Information Protocol next generation [RIPng]
+0522 :: ULP & NetMeeting
+0540 :: Unix-to-Unix Copy [UUCP]
+0543 :: Kerberos Login [klogin]
+0544 :: Kerberos Shell [kshell]
+0546 :: DHCPv6 Client
+0547 :: DHCPv6 Server
+0587 :: SMTP Mail Submission Agent [MSA] - STARTTLS & SMTP-AUTH
+0563 :: NNTP over TLS/SSL [NNTPS]
+0593 :: RPC over HTTPS
+0636 :: LDAP over TLS/SSL [LDAPS]
+0647 :: DHCP Failover
+0691 :: Microsoft Exchange Routing
+0749 :: Kerberos-administration
+0750 :: Kerberos v4
+0751 :: kadmin v4
+0752 :: Kerberos-password [kpasswd]
+0847 :: DHCP Failover
+0873 :: rsync
+0989 :: FTP-data over TLS/SSL [FTPS]
+0990 :: FTP-control over TLS/SSL [FTPS]
+0992 :: telnet over TLS/SSL
+0993 :: IMAP4 over TLS/SSL [IMAPS]
+0994 :: IRC over TLS/SSL [IRCS]
+0995 :: POP3 over TLS/SSL [POP3S]
+1080 :: SOCKS
+1194 :: OpenVPN
+1241 :: Nessus
+1293 :: IPSec
+1311 :: Dell Open Manage HTTPS
+1433 :: Microsoft SQL Server
+1434 :: Microsoft SQL Monitor
+1512 :: Microsoft Windows Internet Name Service [WINS]
+1701 :: Layer 2 Forward [L2F]
+1701 :: Layer 2 Tunneling Protocol [L2TP]
+1723 :: Point to Point Tunneling Protocol [PPTP]
+1812 :: Remote Authentication Dial In User Service [RADIUS-auth]
+1813 :: Remote Authentication Dial In User Service [RADIUS-accounting]
+2083 :: Secure RADIUS Service
+2179 :: Microsoft Hyper-V VMConnect [HyperV-RDP]
+2535 :: DHCP / Multicast Address Dynamic Client Allocation Protocol [MADCAP]
+3268 :: Microsoft Global Catalog
+3269 :: Microsoft Global Catalog with LDAP/SSL
+3306 :: mySQL
+3343 :: Microsoft Cluster Service Traffic
+3389 :: Microsoft Windows Terminal Services / Remote Desktop Protocol [RDP]
+3799 :: RADIUS Dynamic Authorization
+3949 :: Dynamic RIP [DRIP]
+4500 :: IPSec NAT Transversal
+5004 :: Realtime Transport Protocol - Media [RTP-media]
+5005 :: Realtime Transport Protocol - Control [RTP-control]
+5060 :: Session INitiation Protocol [SIP]
+5061 :: SIP over TLS/SSL
+5222 :: Extensible Messaging and Presence Protcol - Client [XMPP-client]
+5223 :: XMPP-client over TLS/SSL
+5269 :: XMPp-server
+5280 :: XMPP Bidirectional Stream over Synchronous HTTP [XMPP-BOSH]
+5289 :: XMPP Link-Local Messaging
+5353 :: Multicast DNS [MDNS]
+5432 :: PostgreSQL
+5722 :: Microsoft Distributed File System Replication [MSDFS]
+5900 :: Microsoft Hyper-V Virtual Machine Remote Control [HyperV-VMRC]
+5985 :: Windows Remote Management / PowerShell psSession
+5986 :: Windows Remote Management via HTTPS / PowerShell secure psSession
+6514 :: Syslog over TLS/SSL
+6600 :: Microsoft HyperV Live Migration
+6622 :: multicast FTP [MFTP]
+6660 -> 6669 :: IRC
+6697 :: IRC over TLS/SSL
+8080 :: HTTP alternative
+8081 :: HTTP alternative
+8100 :: Microsoft Hyper-V VMM Administration Console to VMM Server
+9418 :: git
+33434 :: tracroute
+50636 :: Microsoft Exchange EdgeSync service from Hub Transport Server
