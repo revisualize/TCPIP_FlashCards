@@ -1,3 +1,4 @@
+0007 :: echo
 0009 :: Discard
 0013 :: Daytime
 0019 :: chargen
@@ -44,6 +45,7 @@
 0379 :: Lightweight Directory Access Protocol Site Replication Services [LDAP-SRS]
 0389 :: Lightweight Directory Access Protocol [LDAP]
 0390 :: Microsoft Exchange Server 5.5 LDAP - Recommended Alternative
+0427 :: Service Location Protocol [SLP]
 0443 :: HTTP over TLS/SSL [HTTPS]
 0444 :: Simple Network Paging Protocol [SNPP]
 0445 :: Microsoft Active Directory Shares & SMB File Shares
@@ -116,7 +118,7 @@
 5353 :: Multicast DNS [MDNS]
 5432 :: PostgreSQL
 5722 :: Microsoft Distributed File System Replication [MSDFS]
-5900 :: Microsoft Hyper-V Virtual Machine Remote Control [HyperV-VMRC]
+5900 :: Microsoft Hyper-V Virtual Machine Remote Control [HyperV-VMRC] & VNC (unregistered)
 5985 :: Windows Remote Management / PowerShell psSession
 5986 :: Windows Remote Management via HTTPS / PowerShell secure psSession
 6514 :: Syslog over TLS/SSL
